@@ -6,7 +6,7 @@ We have at our disposal several fairness-related datasets in the package [Respon
 
 <br />
 
-The folder [Data]() in this repository also contain the FICO dataset in .pkl file. On python, we can upload this dataset with the followings lines of code :
+The folder [Data](https://github.com/KieranVaudaux/Statistical-Machine-Learning-Project/tree/main/Data) in this repository also contain the FICO dataset in .pkl file. On python, we can upload this dataset with the followings lines of code :
 ```
 import pickle
 a_file = open("Data/FICO.pkl", "rb")
